@@ -1,0 +1,19 @@
+{
+  "name": "@faridghafoori/my-test-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faridghafoori/my-test-packge.git"
+  },
+  "author": "faridghafoori <faridghafooriadl@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/faridghafoori/my-test-packge/issues"
+  },
+  "homepage": "https://github.com/faridghafoori/my-test-packge#readme"
+}
