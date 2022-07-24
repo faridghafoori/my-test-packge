@@ -1,1 +1,3 @@
-alert("this package runs in the browser");
+function AlertSomething() {
+  alert("this is an alert");
+}
